@@ -1,2 +1,2 @@
 # PlinkoGame
-Plinko Game
+PlinkoGame
